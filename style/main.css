@@ -9,6 +9,9 @@ body{
     font-family: sans-serif;
     top:0;
 }
+section{
+    -webkit-flex-direction: column;
+}
 nav{
  position: relative;
     max-width: 100%;
