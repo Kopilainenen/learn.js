@@ -3,5 +3,5 @@ $(document).ready(function (){
   $("nav ul").toggleClass("active")
  });
 });
-
+history.back()
 
