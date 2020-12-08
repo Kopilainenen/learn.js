@@ -11,6 +11,7 @@ body{
 }
 section{
     -webkit-flex-direction: column;
+    font-size: 15px;
 }
 nav{
  position: relative;

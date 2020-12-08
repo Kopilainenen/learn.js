@@ -9,4 +9,6 @@ $(document).ready(function (){
  });
 });
 let name = "den"
+let age =  13;
+
 
